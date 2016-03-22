@@ -1,0 +1,23 @@
+[{
+		"country": "Portugal",
+		"city": "Lisbon",
+		"latitude": "38.71666666666667",
+		"longitude": "-9.133333",
+		"temperature": "29",
+		"windspeed":"14"
+	}, {
+		"country": "United States",
+		"city": "Washington DC",
+		"latitude": "38.883333",
+		"longitude": "-77.000000",
+		"temperature": "28",
+		"windspeed":"14"
+	}, {
+		"country": "Uruguay",
+		"city": "Montevideo",
+		"latitude":"-34.85",
+		"longitude":"-56.166667",
+		"temperature": "28",
+		"windspeed":"14"
+	}]
+	
